@@ -1,0 +1,7 @@
+EVALUACIJA ZAPOCETA U 15:18:33,08 
+===================================== 
+Evaluacija ucenika Ucenik001 
+Zadatak K: 4/4 
+Ukupno: 4/4 
+===================================== 
+EVALUACIJA ZAVRSENA U 15:18:34,13 
