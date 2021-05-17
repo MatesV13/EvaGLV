@@ -30,8 +30,9 @@ Sve testne primjere pretvorit će u tp.in odnosno tp.out kako bi na njima pravil
 
 
 Dodatne napomene:
-Ispravljač popravlja službene testne podatke sa službenih natjecanja u RH, tako da se i oni mogu koristiti.
-Ukoliko sami stvarate testne podatke, možete sve testne podatke stvoriti ručno u npr. notepadu i fileove prigodno nazvati
-"Cheat": Stvorite ulaz i rješenje. Linija "C:\Windows\py.exe rjesenje.py < X.in > X.out" (gdje X zamjenite brojem testnog primjera) (pokrenuti u command lineu)
+1. Ispravljač popravlja službene testne podatke sa službenih natjecanja u RH, tako da se i oni mogu koristiti.
+2. Ukoliko sami stvarate testne podatke, možete sve testne podatke stvoriti ručno u npr. notepadu i fileove prigodno nazvati 
+   - Neka je X broj testnog primjera. Tada ulaz mora biti u fileu X.in, a izlaz u X.out. 
+3. "Cheat": Stvorite ulaz i rješenje. Linija "C:\Windows\py.exe rjesenje.py < X.in > X.out" (gdje X zamjenite brojem testnog primjera) (pokrenuti u command lineu)
 Gornja linija dati će vam sve potrebne izlaze, umjesto da copy pasteate ulaz i izlaz u/iz shella.
-Alternativno, možete testne podatke stvoriti i uređivati unutar Hightaila (https://codeforces.com/blog/entry/13141)
+4. Alternativno, možete testne podatke stvoriti i uređivati unutar Hightaila (https://codeforces.com/blog/entry/13141)
